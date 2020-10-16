@@ -1,0 +1,6 @@
+export const GET_PARAGRAPH = "GET_PARAGRAPH";
+export const TIMER = "TIMER";
+export const CALCULATE_WORDS_PER_MINUTE = "CALCULATE_WORDS_PER_MINUTE";
+export const TYPED_WORDS = "TYPES_WORDS";
+export const ERROR_COUNTER = "ERROR_COUNTER";
+export const RETEST = "RETEST";
